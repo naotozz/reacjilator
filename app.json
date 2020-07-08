@@ -2,7 +2,7 @@
 {
   "name": "Slack Reacjilator Demo",
   "description": "A translation bot for Slack that translates a message when a user reacted with an emoji",
-  "repository": "https://github.com/slackAPI/reacjilator",
+  "repository": "https://github.com/naotozz/reacjilator",
   "keywords": ["slack", "slack API", "bot", "google translate"],
   "env": {
     "SLACK_SIGNING_SECRET": {
