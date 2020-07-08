@@ -189,7 +189,6 @@ const postMessage = async(message, translation, lang, channel, emoji) => {
     token: process.env.SLACK_ACCESS_TOKEN,
     channel: channel,
     attachments: JSON.stringify(attachments),
-    as_user: false,
     username: 'Reacjilator Bot',
     thread_ts: ts
   };
